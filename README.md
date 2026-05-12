@@ -28,18 +28,21 @@ Este proyecto busca constituir un espacio académico digital para organizar mate
 
 ## Estructura del repositorio
 
-```text
-00-programa-y-planificacion/
-01-sistemas-lineales/
-02-gauss-gauss-jordan/
-03-operatoria-matrices/
-04-determinantes/
-05-valores-vectores-propios/
-06-diagonalizacion/
-07-metodos-numericos/
-evaluaciones/
-actividades-abr-abp/
-recursos-canvas/
-codigo/
-prompts-ia/
-investigacion-docente/
+El repositorio está organizado en las siguientes carpetas principales:
+
+| Carpeta | Descripción |
+|---|---|
+| `00-programa-y-planificacion/` | Programa de la asignatura, cronograma y resultados de aprendizaje. |
+| `01-sistemas-lineales/` | Materiales, guías y actividades sobre sistemas de ecuaciones lineales. |
+| `02-gauss-gauss-jordan/` | Recursos sobre resolución de sistemas mediante Gauss y Gauss-Jordan. |
+| `03-operatoria-matrices/` | Actividades y ejercicios sobre operaciones con matrices. |
+| `04-determinantes/` | Materiales asociados al cálculo e interpretación de determinantes. |
+| `05-valores-vectores-propios/` | Recursos sobre valores propios, vectores propios y aplicaciones. |
+| `06-diagonalizacion/` | Materiales sobre diagonalización de matrices. |
+| `07-metodos-numericos/` | Recursos sobre métodos de Jacobi y Gauss-Seidel. |
+| `evaluaciones/` | Controles, pruebas, rúbricas, pautas y bancos de preguntas. |
+| `actividades-abr-abp/` | Actividades basadas en proyectos y retos. |
+| `recursos-canvas/` | Materiales HTML, QTI o SCORM para Canvas. |
+| `codigo/` | Scripts en Python, R, Manim o Apps Script. |
+| `prompts-ia/` | Prompts, bitácoras y protocolos de uso responsable de IA. |
+| `investigacion-docente/` | Instrumentos, análisis y evidencias para innovación educativa. |
